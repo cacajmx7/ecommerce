@@ -1,5 +1,5 @@
 {
-    "name": "hcodebr/ecommerce",
+    "name": "jmx/ecommerce",
     "authors": [
         {
             "name": "Hcode Treinamentos",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "jmx\\": "vendor\\jmx\\php-classes\\src"
         }
     }
 }
